@@ -1,0 +1,17 @@
+{
+    "vase": {
+        "title": "Artisan Glass Vase",
+        "description": "Perfect for flowers or decorative branches, this glass vase is made by hand by talented glassblowers.",
+        "img": "./images/vase.jpg"
+    },
+    "lamp": {
+        "title": "Industrial Lamp",
+        "description": "Bring some industrial flair into your home with this ceiling lamp. Aluminum casing and exposed wiring completes the look. Not for outdoor use.",
+        "img": "./images/lamp.jpg"
+    },
+    "rug": {
+        "title": "Stripes of the Sea Rug",
+        "description": "This rug, woven with shades of cerulean, teal, and slate gray, with accents of earthy tones, evokes memories of the seaside.",
+        "img": "./images/rug.jpg"
+    }
+}
